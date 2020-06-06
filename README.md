@@ -1,3 +1,3 @@
 # CM2020-2
 
-* Repositorio para la matería Cómputo Móvil
+## Repositorio de la matería Cómputo Móvil
